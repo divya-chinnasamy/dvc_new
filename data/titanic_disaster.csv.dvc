@@ -1,0 +1,5 @@
+outs:
+- md5: 52ae796657c8e342be22ea65758a1426
+  size: 45808
+  hash: md5
+  path: titanic_disaster.csv
